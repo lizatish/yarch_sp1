@@ -1,0 +1,12 @@
+@import url('../../mfrontend/host/src/vendor/normalize.css');
+@import url('../../mfrontend/host/src/vendor/fonts.css');
+@import url('../../mfrontend/host/src/blocks/page/page.css');
+@import url('../../mfrontend/host/src/blocks/header/header.css');
+@import url('../../mfrontend/host/src/blocks/content/content.css');
+@import url('../../mfrontend/host/src/blocks/footer/footer.css');
+@import url('../../mfrontend/users/src/blocs/profile/profile.css');
+@import url('../../mfrontend/host/src/blocks/places/places.css');
+@import url('../../mfrontend/cards/src/blocs/card/card.css');
+@import url('../../mfrontend/host/src/blocks/popup/popup.css');
+@import url('../../mfrontend/host/src/blocks/popup/_is-opened/popup_is-opened.css');
+@import url('../../mfrontend/auth/src/blocs/auth-form/auth-form.css');
